@@ -2,5 +2,5 @@
 Python program that generates state diagrams of Mealy and Moore sequence detector machine for entered bit sequence.
 
 For using program run 
->python3 FSM.py
+>python3 statediagram.py
 
